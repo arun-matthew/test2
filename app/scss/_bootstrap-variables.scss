@@ -1,0 +1,28 @@
+// Custom variables
+
+//== Typography
+//
+//## Font, line-height, and color for body text, headings, and more.
+
+// $font-family-sans-serif:  'Roboto Condensed', sans-serif !default;
+
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+// $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
+// $font-family-base:        $font-family-sans-serif !default;
+
+// $font-size-base:          18px !default;
+// $font-size-large:         20px !default; // ~18px
+// $font-size-small:         16px !default; // ~12px
+
+// $font-size-h1:            40px !default; // ~36px
+// $font-size-h2:            36px !default; // ~30px
+// $font-size-h3:            30px !default; // ~24px
+// $font-size-h4:            24px !default; // ~18px
+// $font-size-h5:            20px !default;
+
+// $line-height-base:        1.444444444444444 !default; // 26/18
+
+$screen-xs:                  480px !default;
+$screen-sm:                  768px !default;
+$screen-md:                  992px !default;
+$screen-lg:                  1200px !default;
